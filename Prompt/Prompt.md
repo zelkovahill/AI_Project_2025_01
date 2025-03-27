@@ -4,7 +4,7 @@
 
 >Prompt
 
-*masterpiece, (1gril : 1.0), (flower:1.0), (tree :1:0), (sky :1.7)*
+*masterpiece, (1gril : 1.7), (flower:1.0), (tree :1:0), (sky :1.0)*
 
 <br>
 
