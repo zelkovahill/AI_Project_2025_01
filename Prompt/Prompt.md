@@ -1,6 +1,6 @@
-# 0327
+# 가중 통제
 
-![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/img2img/0327/00009-4121473032.png)
+![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/Prompt/00009-4121473032.png?raw=true)
 
 >Prompt
 
@@ -14,7 +14,7 @@
 
 
 
-![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/img2img/0327/00015-2718807110.png)
+![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/Prompt/00015-2718807110.png?raw=true)
 
 >Prompt
 
@@ -26,7 +26,7 @@
 
 <br>
 
-![00013-3888699596](https://github.com/user-attachments/assets/49e1efae-5a89-4b05-9b3c-808f0d3000f9)
+![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/Prompt/00013-3888699596.png?raw=true)
 
 >Prompt
 
@@ -38,7 +38,7 @@
 
 <br>
 
-![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/img2img/0327/00011-2248339979.png)
+![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/Prompt/00011-2248339979.png?raw=true)
 
 >Prompt
 
