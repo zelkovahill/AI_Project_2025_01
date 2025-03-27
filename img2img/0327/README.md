@@ -31,3 +31,15 @@
 >Prompt
 
 *masterpiece, [Nine-tailed fox : fairy : 0.5]*
+
+<br>
+
+---
+
+<br>
+
+![image](https://github.com/zelkovahill/AI_Project_2025_01/blob/main/img2img/0327/00011-2248339979.png)
+
+>Prompt
+
+*masterpiece,[steampunk | science fiction, fairy : 0.5]*
